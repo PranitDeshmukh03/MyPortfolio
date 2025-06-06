@@ -1,0 +1,149 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(PRANIT DESHMUKH) Tj
+0 -20 Td
+(Pune, India) Tj
+0 -15 Td
+(9511719598 | pranitd1603@gmail.com | linkedin.com/pranit-deshmukh/) Tj
+0 -30 Td
+(OBJECTIVE) Tj
+0 -20 Td
+(Result driven Azure Cloud and DevOps Engineer with 3+ years of experience in deploying, securing, and optimizing) Tj
+0 -15 Td
+(Microsoft Azure infrastructure. Skilled in CI/CD pipelines, Kubernetes \(AKS\), Azure AD, and cost-effective cloud) Tj
+0 -15 Td
+(solutions. Proven ability to enhance reliability, reduce downtime, and improve overall system performance.) Tj
+0 -30 Td
+(EXPERIENCE) Tj
+0 -20 Td
+(Azure Cloud and Devops Engineer                                                                May 2022 - Present) Tj
+0 -15 Td
+(LTIMindtree                                                                                                 Pune) Tj
+0 -15 Td
+(• Configuring and deploying of Azure virtual machines, storage accounts, kubernetes\(AKS\) and many other azure) Tj
+0 -15 Td
+(  resources.) Tj
+0 -15 Td
+(• Developing and managing CI/CD pipelines for streamlined deployments.) Tj
+0 -15 Td
+(• Administrating Azure Active Directory \(Entra ID\), Role-Based Access Control \(RBAC\), User Management, and) Tj
+0 -15 Td
+(  Implementing MFA.) Tj
+0 -15 Td
+(• Troubleshooting and solving issues related to Virtual Machines, NSGs, Microsoft Defender Cloud vulnerabilities,) Tj
+0 -15 Td
+(  IP addresses, and security threats to ensure system integrity.) Tj
+0 -15 Td
+(• Updating SSL certificates over Key Volts and updating it on Application Gateways, AKS cluster upgrade for all) Tj
+0 -15 Td
+(  environments along with production.) Tj
+0 -15 Td
+(• Managed backups and recovery by taking snapshots of production VMs.) Tj
+0 -15 Td
+(• Also worked on the front-end development as a angular developer.) Tj
+0 -15 Td
+(• Using typescript, a page was introduced for view history of orders.) Tj
+0 -15 Td
+(• In addition to that, I developed a grid, comments, and remarks section for the support flow.) Tj
+0 -15 Td
+(• Supported the SEO enhancement process by integrating optimizations via Free Marker Template \(FTL\).) Tj
+0 -30 Td
+(SKILLS) Tj
+0 -20 Td
+(Technical Skills: Microsoft Azure Cloud, Azure VM, Azure AD \(Microsoft Entra ID\), Azure Devops Portal, CI/CD,) Tj
+0 -15 Td
+(Azure Storage, Cloud Infrastructure, Pipeline Management and Deployments, Kubernetes, Agile, Application) Tj
+0 -15 Td
+(Gateway, RBAC, IAM, MFA, Azure Functions, Azure PaaS, Azure SaaS, Notification Hub, E2E Network Cloud,) Tj
+0 -15 Td
+(YAML, Docker Containerization, AWS, Angular, HTML, CSS, etc.) Tj
+0 -20 Td
+(Soft Skills: Adaptability, Communication, Professionalism, Problem solving, Self Learning, Teamwork,) Tj
+0 -15 Td
+(Flexibility, Leadership, Proactive learner, Critical Thinking.) Tj
+0 -30 Td
+(EDUCATION) Tj
+0 -20 Td
+(B.Tech, Savitribai Phule Pune University\(SPPU\)                                                            2017-2021) Tj
+0 -15 Td
+(HSC State Board, Amaravati Board                                                                               2017) Tj
+0 -30 Td
+(CERTIFICATIONS) Tj
+0 -20 Td
+(• AZ-900 - Microsoft Azure Fundamentals Certified.) Tj
+0 -30 Td
+(ACHIEVEMENTS) Tj
+0 -20 Td
+(• Honored with the "Best Cloud Engineering Excellence" for introducing robust cloud security protocols that) Tj
+0 -15 Td
+(  reduced vulnerability incidents by 45%, ensuring compliance with industry standards and safeguarding client) Tj
+0 -15 Td
+(  data.) Tj
+0 -15 Td
+(• "Best Team Player Award" for excellent collaboration with different teams like Tech team, Testing team,) Tj
+0 -15 Td
+(  Operations team as well as the client.) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000053 00000 n 
+0000000110 00000 n 
+0000000271 00000 n 
+0000002322 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2404
+%%EOF
